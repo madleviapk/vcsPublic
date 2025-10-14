@@ -1,4 +1,5 @@
 {
-  "save_button": "Save",
-  "cancel_button": "Cancel"
+    "save_button": "Save",
+    "cancel_button": "Cancel",
+    "test": "Test"
 }
